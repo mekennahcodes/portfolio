@@ -1,0 +1,86 @@
+
+html, body {
+    background-color: #C3B59C;
+    margin: 45px;
+    padding: 15px;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "Allerta Stencil Web Safe Font";
+    font-size: 260px;
+    margin-top: 100px; 
+}
+
+
+h2 {
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+article {
+    background-color: #fff;
+    border: 10px solid #68623A;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+  
+}
+
+i h3 {
+    font-size: 24px;
+    color: #333;
+    margin: 10px 0;
+    text-align: center;
+}
+
+
+hr {
+    border: 1px solid #CD6858;
+    margin: 20px 40px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+p b {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+
+li {
+    margin-left: 20px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    height: auto; 
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer h5 {
+    font-size: 16px;
+    margin: 0;
+}
